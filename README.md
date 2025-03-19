@@ -37,5 +37,8 @@ O aplicativo Amigo Secreto consiste em desenvolver um sorteio de amigos secretos
 - **CSS**: Estilização e design responsivo.
 - **JavaScript**: Lógica de adição de nomes, validação e sorteio aleatório.
 
+## Autor
+
+Gabriel Guimarães👨‍💻
 
 
